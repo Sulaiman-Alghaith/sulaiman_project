@@ -282,7 +282,11 @@
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
-
+  .contact-info h3 {
+    font-size: 20px;
+    color: #2f3c01;
+    margin-bottom: 10px;
+  }
   
   .contact-info a {
     text-decoration: none;
