@@ -188,12 +188,12 @@
   }
   
   body.dark-mode footer {
-    background: #222;
+    background: #333;
     color: #fff;
   }
   
   body.dark-mode footer:hover {
-    background: #444;
+    background: #1f2801;
     color: #fff;
   }
   
@@ -251,7 +251,7 @@
 .contact {
     padding: 48px 10%;
     text-align: center;
-    background-color: #f8f8f8;
+    background-color: #e8e5c9;
   }
   
   .contact h2 {
